@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Kiosco.io/static/css/main.a5a130ba.css",
+    "main.js": "/Kiosco.io/static/js/main.7f604941.js",
+    "static/js/787.8ff87d19.chunk.js": "/Kiosco.io/static/js/787.8ff87d19.chunk.js",
+    "index.html": "/Kiosco.io/index.html",
+    "main.a5a130ba.css.map": "/Kiosco.io/static/css/main.a5a130ba.css.map",
+    "main.7f604941.js.map": "/Kiosco.io/static/js/main.7f604941.js.map",
+    "787.8ff87d19.chunk.js.map": "/Kiosco.io/static/js/787.8ff87d19.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5a130ba.css",
+    "static/js/main.7f604941.js"
+  ]
+}

@@ -1,0 +1,51 @@
+/* Carrito.css */
+ul {
+  list-style-type: none;
+
+
+}
+.container-lista-carrito {
+  min-height: 80vh;
+  background-color: rgba(94, 139, 235, 0.1);
+  width: 100%;
+}
+
+.container-lista-productos_titulo {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 30px;
+  padding: 10px;
+  padding-bottom: 0px;
+  margin: 10px auto;
+}
+
+.producto-agregado {
+  text-align: center;
+  font-size: 25px;
+  background-color: rgba(110, 110, 112, 0.3);
+  display: flex;
+  padding: auto;
+  width: 90%;
+  margin: 4px auto;
+  justify-content: space-between;
+}
+
+.producto-agregado-texto {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  display: inline;
+}
+
+.producto-agregado-botones {
+  display: flex;
+  flex-direction: column;
+
+}
+
+.boton-carrito {
+  margin: 5px;
+  padding: 2px;
+  height: auto;
+}
+
+.boton-carrito>button {
+  margin: 6px;
+}

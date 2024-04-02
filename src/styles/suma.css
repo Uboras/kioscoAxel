@@ -1,0 +1,25 @@
+
+.container-total{
+  background-color: rgba(94, 139, 235, 0.1);
+  display: block;
+    width: 20%;
+    padding: 10px;
+    margin: auto;
+    margin-left: 15px;
+}
+.container-total>h2{
+    font-size: larger;
+    padding: 10px;
+    
+}
+.container-total>p{
+    font-size: 20px;
+    padding: 10px;
+    padding-bottom: 0px;
+}
+
+.container-total_pagos > button{
+    display: block;
+    margin: 10px;
+
+}

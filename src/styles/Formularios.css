@@ -1,0 +1,102 @@
+.container-Cargar{
+    margin: 30px;
+
+} 
+.container-reportes{
+    margin: 30px;
+    
+    
+}
+.reportes_h2{
+font-size: 30px;
+display: flex;
+flex-direction: column;
+max-width: 400px;
+
+border-radius: 8px;
+font-family: Arial, sans-serif; /* Cambio de fuente */
+}
+.container-Actualizar{
+    display: flex;
+    margin: 30px;
+}
+@media (max-width: 768px) {
+    .container-Actualizar{
+    display: block;
+    margin: 10px;
+    padding: 10px;
+    } }
+/* Estilo para los formularios */
+form {
+    font-size: medium;
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+    margin: 30px;
+    margin-left: 50px;
+    padding: 15px;
+    background-color: #f0f6fc; /* Azul claro */
+    border:   3px solid #0056b3;
+    font-family: Arial, sans-serif; /* Cambio de fuente */
+    box-shadow: 4px 4px 4px #657ae4;
+}
+  /* Estilo para las etiquetas de los campos */
+  label {
+    margin-bottom: 10px;
+    font-weight: bold;
+  }
+  
+  /* Estilo para los campos de entrada */
+  input,
+  select {
+    padding: 8px;
+    margin: 2px;
+    margin-bottom: 15px;
+    border: 1px solid #f0f2fc; /* Gris claro */
+    box-shadow: 4px 4px 4px #3c4c9e;
+    border-radius: 4px;
+    font-size: 16px;
+    font-family: Arial, sans-serif; /* Cambio de fuente */
+    outline: none;
+  }
+  input:focus{
+    background-color: #0056b3;
+    color: #f0f2fc;
+    scale: 1.05;
+  }
+  
+ 
+  input:focus::placeholder{
+    color: blanchedalmond;
+    text-shadow: 1px 1px 1px black;
+  }
+
+
+  button {
+    padding: 10px 20px;
+    background-color: #007bff; /* Azul */
+    color: white;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+    font-family: Arial, sans-serif; /* Cambio de fuente */
+  }
+  
+  /* Estilo para los botones al pasar el mouse */
+  button:hover {
+    box-shadow: 2px 2px 1px #3c4c9e;
+    background-color: #0056b3; /* Azul más oscuro */
+  }
+  
+  /* Estilo para las leyendas de los fieldsets */
+  legend {
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    font-family: Arial, sans-serif; /* Cambio de fuente */
+  }
+  fieldset{
+  border-color: #0056b3;
+    color: #0056b3;
+  }

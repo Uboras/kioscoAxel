@@ -1,0 +1,24 @@
+.container-bannerIzquierdo {
+    margin: auto ;
+    position: absolute;
+    top: 24px;
+    width: 50px;
+    left: 10px;
+    font-size: medium;
+    writing-mode: vertical-lr;
+    background-color: rgb(94, 139, 235);
+    min-height: 97vh;
+}
+
+.container-bannerIzquierdo>ul {
+    display: flex;
+    
+}
+.container-bannerIzquierdo_Link {
+    font-size: large;
+    margin: 20px;
+    padding: 20px;
+    text-decoration: none;
+    margin: auto;
+
+}

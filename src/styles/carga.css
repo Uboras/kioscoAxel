@@ -1,0 +1,9 @@
+.container-carga{
+    display: block;
+    margin-left: 50px;
+
+}
+.container-carga > form{
+    display: block;
+    
+}   

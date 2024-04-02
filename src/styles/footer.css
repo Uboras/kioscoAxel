@@ -1,0 +1,22 @@
+.contenedor-footer{
+    height: 5vh;
+    position: fixed;
+    bottom: 0;
+    right: 10px;
+    text-align: center;
+    width: 22%;
+    background-color: rgb(94, 139, 235);
+    
+}
+.contenedor-footer_p{
+    font-weight: bold;
+    font-size: medium;
+    display: inline;
+    margin: auto;
+    padding: 3px;
+    
+    
+    
+}
+  
+  

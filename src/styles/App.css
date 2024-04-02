@@ -1,0 +1,46 @@
+.container{
+  margin: 0;
+  display: flex;
+  width: 100%;  
+}
+.container-compra{
+  width: 70%;
+  margin-top: 20px;
+
+  margin-left: 20px;
+  overflow: hidden;
+
+}
+
+@media (max-width: 768px) {
+  .container-Actualizar{
+  display: block;
+  } 
+.container-total{
+  margin: auto;
+  width: 80%;
+}
+ .container-bannerIzquierdo{
+  display: none; 
+  width: 1%;
+
+  }
+
+  .container { 
+    display: block;
+  }
+  .container-compra{
+    width: 90%;
+    margin: 20px;
+    overflow: hidden;
+    }
+.contenedor-footer{
+  display: block;
+  position: relative;
+  font-size: 24px;
+  font: bold;
+  width: 100%;
+  
+}
+  }
+

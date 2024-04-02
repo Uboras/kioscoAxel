@@ -1,0 +1,19 @@
+.tituloLista{
+    color: #0056b3;
+    font-size: larger;
+    text-shadow: 1px 1px #014186; ;
+}
+
+.itemlista{
+    max-width: 80%;
+    padding: 5px 20px ;
+font-size: 25px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+background-image: linear-gradient(to bottom,#89b4e22a, #96b3d346)
+}
+.input-pequeno{
+    width: 2.5em;
+    text-align: end;
+    padding: 4px;
+    
+}
